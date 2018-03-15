@@ -1,0 +1,3 @@
+1.  We can see that the top 5 schools are Charter Schools
+2.  The bottom 5 schools are District Schools
+3.  In general, schools that spent the least tended to have higher scores
